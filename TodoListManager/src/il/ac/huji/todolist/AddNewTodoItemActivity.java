@@ -1,7 +1,6 @@
 package il.ac.huji.todolist;
 
 import java.util.Date;
-
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
